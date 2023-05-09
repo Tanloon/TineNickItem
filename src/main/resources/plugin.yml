@@ -1,0 +1,4 @@
+name: TineNickItem
+version: '${project.version}'
+main: top.tokia.tinenickitem.TineNickItem
+api-version: 1.19
